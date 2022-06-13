@@ -7,7 +7,7 @@ const collectionInfo = {
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "Nz2TNS4h_400x400.jpg",
+        preview: "686f5df0.gif",
         favicon: "logo.jpg",
     },
     background: {
@@ -18,7 +18,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 0.069,
+    price: 7,
     totalSupply: 100,
     toFixed: 0,
     minUnits: 1,

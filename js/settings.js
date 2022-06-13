@@ -1,13 +1,13 @@
 const collectionInfo = {
-    name: "Solana Nut",
+    name: "Good Skellas",
     title: "{name}",
-    date: "13.06.2022",
+    date: "14.06.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "Nz2TNS4h_400x400.jpg",
+        preview: "1.gif",
         favicon: "logo.jpg",
     },
     background: {
@@ -18,11 +18,11 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1.5,
+    price: 2,
     totalSupply: 100,
     toFixed: 0,
     minUnits: 1,
-    maxUnits: 3,
+    maxUnits: 1,
     askMintLoop: true,
 }
 

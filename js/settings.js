@@ -1,5 +1,5 @@
 const collectionInfo = {
-    name: "Bubblegoose Ballers",
+    name: "Solana Nut",
     title: "{name}",
     date: "13.06.2022",
     socialMedia: {
@@ -7,7 +7,7 @@ const collectionInfo = {
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "686f5df0.gif",
+        preview: "Nz2TNS4h_400x400.jpg",
         favicon: "logo.jpg",
     },
     background: {
@@ -18,11 +18,11 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 7,
+    price: 1.5,
     totalSupply: 100,
     toFixed: 0,
     minUnits: 1,
-    maxUnits: 5,
+    maxUnits: 3,
     askMintLoop: true,
 }
 

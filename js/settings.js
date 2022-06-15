@@ -1,7 +1,7 @@
 const collectionInfo = {
     name: "Good Skellas",
     title: "{name}",
-    date: "14.06.2022",
+    date: "16.06.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -20,9 +20,9 @@ const collectionInfo = {
 const mintInfo = {
     price: 2,
     totalSupply: 100,
-    toFixed: 0,
+    toFixed: 2,
     minUnits: 1,
-    maxUnits: 1,
+    maxUnits: 3,
     askMintLoop: true,
 }
 

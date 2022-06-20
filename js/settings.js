@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Good Skellas",
+    name: "Element",
     title: "{name}",
-    date: "16.06.2022",
+    date: "20.06.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -11,16 +11,16 @@ const collectionInfo = {
         favicon: "logo.jpg",
     },
     background: {
-        type: "image",
-        image: "ce31a7fddef681a6619fe4bf600ef629.jpg",
-        video: "",
+        type: "video",
+        image: "",
+        video: "1.mp4",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
     price: 2,
     totalSupply: 100,
-    toFixed: 2,
+    toFixed: 0,
     minUnits: 1,
     maxUnits: 3,
     askMintLoop: true,

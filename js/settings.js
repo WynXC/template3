@@ -1,24 +1,24 @@
 const collectionInfo = {
-    name: "Element",
+    name: "Cosmo Heroes",
     title: "{name}",
-    date: "20.06.2022",
+    date: "22.06.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "1.gif",
+        preview: "logo.jpg",
         favicon: "logo.jpg",
     },
     background: {
-        type: "video",
-        image: "",
-        video: "1.mp4",
+        type: "image",
+        image: "bg.jpg",
+        video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 2,
+    price: 3,
     totalSupply: 100,
     toFixed: 0,
     minUnits: 1,

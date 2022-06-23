@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Cosmo Heroes",
+    name: "Suki Moon",
     title: "{name}",
-    date: "22.06.2022",
+    date: "24.06.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -18,9 +18,9 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 2.5,
-    totalSupply: 100,
-    toFixed: 1,
+    price: 1,
+    totalSupply: 1000,
+    toFixed: 0,
     minUnits: 1,
     maxUnits: 3,
     askMintLoop: true,
